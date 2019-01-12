@@ -10,7 +10,7 @@ This repository contains a ROS package which localizes a robot in a known map wi
 An installation of the [Robot Operating System (ROS)](http://wiki.ros.org/ROS/Installation) is required to run this package. This package has only been tested on the Kinetic and Melodic distributions of ROS.
 
 Clone this repository into a catkin workspace src directory, and build the package.
-````
+```
 $ git clone https://github.com/kenkangg/ROS_Monte_Carlo_Localization.git
 $
 $ cd ~/catkin_ws
